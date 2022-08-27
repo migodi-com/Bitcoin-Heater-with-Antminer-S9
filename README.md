@@ -9,7 +9,7 @@ Die Idee hinter einer Heizung basierend auf die Abwärme von Computer-Technik, i
 
 ## Wie siehst es fertig aus?
 
-<img src="./img/Bitcoin_Heater.jpeg" data-canonical-src="./img/Bitcoin_Heater.jpeg" width="200" height="400" />
+<img src="./img/Bitcoin_Heater.jpeg" data-canonical-src="./img/Bitcoin_Heater.jpeg" width="450"/>
 
 ## Technische Eckdaten
 
@@ -45,7 +45,7 @@ Internet: ETH Port
 - Thermo Schlauch: 5 meters
 - Kleinkram (todo)
 
-![Bitcoin Air Heater](./img/Teileliste.jpg?raw=true "Bitcoin Heater" =400x)
+![Bitcoin Air Heater](./img/Teileliste.jpg?raw=true "Bitcoin Heater")
 
 
 ### Schritt 1 - Miner prüfen.
@@ -58,7 +58,7 @@ Prüft den Miner auf Funktionsfähigkeit und ob auch alle Hashboards laufen. Das
 1. Erdet euch selbst gegen elektrische Aufladung. Ihr könnet ansonsten bei den nächsten Schritten den Miner ungewollt beschädigen.
 
 2. Hinteren Lüfter abschrauben und abnehmen. Es reicht direkt die Blende / Halterung abzuschrauben. 
-![S9 Hashboards ausbauen - Hinteren Lüfter abschrauben und abnehmen](./img/IMG_1619.JPG?raw=true "Hinteren Lüfter abschrauben und abnehmen"  =x400)
+<img src="./img/IMG_1619.JPG?raw=true" data-canonical-src="./img/IMG_1619.JPG?raw=true" width="450" alt="Hinteren Lüfter abschrauben und abnehmen"/>
 
 3. Netzteil-, Data- und Fan-Kabel abziehen. Achtet darauf, dass alle Kabel in der Regel mit einem Hebelverschluss gesichert sind. Verwendet eure Daumen oder einen Schraubenzieher, um den Verschluss durch Hochheben zu lösen und um dann das Kabel herauszuziehen. 
 |![S9 Hashboards ausbauen - Hebelverschluss](./img/IMG_1626.JPG?raw=true "Hebelverschluss" =250x)|
