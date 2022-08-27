@@ -94,36 +94,27 @@ Als Erste bringen wir die Hashboards und Kühlwasserblöcke zusammen. Das Ganze 
   <img src="./img/IMG_1646.JPG?raw=true" width="250" alt="Antminer S9 Sandwich"/> 
 
 4. Das Ganze wiederholen - der Abschluss ist ein Kühlwasserblöcke.
-  <img src="./img/IMG_1647.JPG?raw=true" width="250" alt="Antminer S9 Sandwich"/> 
-  <img src="./img/IMG_1634.JPG?raw=true" width="250" alt="Antminer S9 Sandwich"/>
-  <img src="./img/IMG_1635.JPG?raw=true" width="250" alt="Antminer S9 Sandwich"/> 
+  <img src="./img/IMG_1647.JPG?raw=true" width="250" alt="Antminer S9 Sandwich"/><img src="./img/IMG_1634.JPG?raw=true" width="250" alt="Antminer S9 Sandwich"/><img src="./img/IMG_1635.JPG?raw=true" width="250" alt="Antminer S9 Sandwich"/> 
 
 5. Hashboard und Kühlwasserblöcke in die Stahlkonstruktion, bestehend aus den beiden Stahlplatte und den sechs langen Schrauben, einsetzen. Achtete darauf das die Stahlkonstruktion keine Bauelemente der Hashboards berührt. 
-<img src="./img/IMG_1648.JPG?raw=true" width="250" alt="Antminer S9 Sandwich"/>
-<img src="./img/IMG_1649.JPG?raw=true" width="250" alt="Antminer S9 Sandwich"/>
-<img src="./img/IMG_1637.JPG?raw=true" width="250" alt="Antminer S9 Sandwich"/>
+<img src="./img/IMG_1648.JPG?raw=true" width="250" alt="Antminer S9 Sandwich"/><img src="./img/IMG_1649.JPG?raw=true" width="250" alt="Antminer S9 Sandwich"/><img src="./img/IMG_1637.JPG?raw=true" width="250" alt="Antminer S9 Sandwich"/>
 
 
 ### Schritt 4 - Aufbau der Schlauchstruktur
 
 Verwendet vernünftige Klemmen, Schellen und das Teflonband!
 
-1. Entscheidet wie weit der Radiator vom Miner stehen soll. Alle Komponenten sollten jedoch so nah wie möglich zusammen stehen. Beachtet, welches Volumen eure Pumpe hinbekommt bei 12 V. Ihr könnte das Kabel entweder nach Augenmaß zusammenschneiden oder auch abmessen. Wie auch immer, ein scharfes Teppichmesser reicht aus. Achtet darauf das die Schnitte sauber und gerade sind. Insgesamt benötigt ihr: 
+1. Entscheidet wie weit der Radiator vom Miner stehen soll. Alle Komponenten sollten jedoch so nah wie möglich zusammen stehen. Beachtet, welches Volumen eure Pumpe hinbekommt bei 12 V. Ihr könnte das Kabel entweder nach Augenmaß zusammenschneiden oder auch abmessen. Wie auch immer, ein scharfes Teppichmesser reicht aus. Achtet darauf das die Schnitte sauber und gerade sind. Insgesamt benötigt ihr:
 
-8 x 40cm Thermo Schlauch 10mm A (Hashboard zum Wasserverteiler)
-1 x 30cm Thermo Schlauch 10mm B (Verteiler zu Pumpe)
-1 x 50cm Thermo Schlauch 10mm C (Verteiler zu Radiator)
-1 x 50cm Thermo Schlauch 10mm D (Radiator zu Pumpe)
-
-<img src="./img/IMG_1655.JPG?raw=true" width="250" alt="Antminer S9 Schlauchstruktur"/>
-<img src="./img/IMG_1656.JPG?raw=true" width="250" alt="Antminer S9 Schlauchstruktur"/>
+- 8 x 40cm Thermo Schlauch 10mm A (Hashboard zum Wasserverteiler)
+- 1 x 30cm Thermo Schlauch 10mm B (Verteiler zu Pumpe)
+- 1 x 50cm Thermo Schlauch 10mm C (Verteiler zu Radiator)
+- 1 x 50cm Thermo Schlauch 10mm D (Radiator zu Pumpe) 
+ 
+ <img src="./img/IMG_1655.JPG?raw=true" width="250" alt="Antminer S9 Schlauchstruktur"/><img src="./img/IMG_1656.JPG?raw=true" width="250" alt="Antminer S9 Schlauchstruktur"/>
 
 2. Verbindet die Hashboards mit den beiden Wasserverteiler. Jeder Kühlwasserblöcke hat jeweils einen Wassereingang und Wasserausgang. Legt fest welche Seite der Eingang und welche der Ausgang ist und verbindet die Schläuche entsprechend mit dem jeweilgen Wasserverteiler. 
-<img src="./img/IMG_1700.JPG?raw=true" width="250" alt="Wasserverteiler"/>
-<img src="./img/IMG_1657.JPG?raw=true" width="250" alt="Antminer S9 Schlauchstruktur"/>
-<img src="./img/IMG_1659.JPG?raw=true" width="250" alt="Antminer S9 Schlauchstruktur"/>
-<img src="./img/IMG_1661.JPG?raw=true" width="250" alt="Antminer S9 Schlauchstruktur"/>
-
+<img src="./img/IMG_1700.JPG?raw=true" width="250" alt="Wasserverteiler"/><img src="./img/IMG_1657.JPG?raw=true" width="250" alt="Antminer S9 Schlauchstruktur"/><img src="./img/IMG_1659.JPG?raw=true" width="250" alt="Antminer S9 Schlauchstruktur"/><img src="./img/IMG_1661.JPG?raw=true" width="250" alt="Antminer S9 Schlauchstruktur"/> 
 
 
 ## Schritt 5 - System mit Radiator verbinden
@@ -132,15 +123,17 @@ Verwendet vernünftige Klemmen, Schellen und das Teflonband!
 2. Verbindet den freien Radiatoranschluss mit der Pumpe (IN).
 3. Schließt den letzten Schlauch an den freien Wasserverteile an, aber noch nicht mit der Pumpte verbinden! Ihr werden über diesen Schlauch gleich das System mit Destilliertes Wasser / Kühlmittel. 
 
-<img src="./img/IMG_0001.png?raw=true" width="250" alt="Antminer S9 Schlauchstruktur"/>
-<img src="./img/IMG_1675.JPG?raw=true" width="250" alt="Antminer S9 Schlauchstruktur"/>
+<img src="./img/IMG_0001.png?raw=true" width="450" alt="Antminer S9 Schlauchstruktur"/><img src="./img/IMG_1675.JPG?raw=true" width="250" alt="Antminer S9 Schlauchstruktur"/>
 
 4. Baut die Pumpenhalterung zusammen
 
 <img src="./img/IMG_1638.JPG?raw=true" width="250" alt="Antminer S9 Schlauchstruktur"/>
 
 
-#### [![Bitcoin Heater OFF](https://img.youtube.com/vi/pi97TVhxpbs/0.jpg)](https://www.youtube.com/watch?v=pi97TVhxpbs)
+#### Zwischenstand als Video
+
+[![Bitcoin Heater OFF](https://img.youtube.com/vi/pi97TVhxpbs/0.jpg)](https://www.youtube.com/watch?v=pi97TVhxpbs)
+
 
 
 ### Schritt 6 - Netzteil
@@ -155,9 +148,7 @@ Wem das System trotzdem zu laut ist, kann man den Miner in einer passenden Sound
 
 1. Setz das Control Board auf den Bitcoin Würfel, ihr musst unter dem Control Board etwas nicht Leitendes und Wärmebeständiges hinlegen. Die Unterseite vom Control Board darf den Würfel nicht berühren. Es besteht Kurzschlussgefahr!
 
-<img src="./img/IMG_0002.png?raw=true" width="250" alt="Bitcoin Heater Testlauf"/>
-<img src="./img/IMG_1660.JPG?raw=true" width="250" alt="Bitcoin Heater Testlauf"/>
-<img src="./img/IMG_1652.JPG?raw=true" width="250" alt="Bitcoin Heater Testlauf"/>
+<img src="./img/IMG_0002.png?raw=true" width="250" alt="Bitcoin Heater Testlauf"/><img src="./img/IMG_1660.JPG?raw=true" width="250" alt="Bitcoin Heater Testlauf"/><img src="./img/IMG_1652.JPG?raw=true" width="250" alt="Bitcoin Heater Testlauf"/>
 
 2. Verbindet die Hashboards mit dem Control Board. Seid behutsam. 
 <img src="./img/IMG_1650.JPG?raw=true" width="250" alt="Bitcoin Heater Testlauf"/>
@@ -174,7 +165,9 @@ Positioniert alles so, dass Spannungen / Netzteil / Miner nicht mit der Kühlfl�
 
 10. Ihr solltet nun beobachten können, wie das System Arbeit und die Luft in den Ausgleichsbehälter transportiert wird. Über die Öffnung im Ausgleichsbehälter, welcher auf der Pumpe montiert ist, könnt ihr das System dann weiter mit Kühlflüssigkeit befüllen, bis das System komplett entlüftet ist. Achtet darauf, dass der Miner während der Prozedur nicht überhitzt. Unterbricht den Vorgang falls nötig und lasst den Miner abkühlen. 
 
-#### [![Bitcoin Heater first time start](https://img.youtube.com/vi/t4zXWliNhGk/0.jpg)](https://www.youtube.com/watch?v=t4zXWliNhGk)
+#### Bitcoin Heater first time start
+
+[![Bitcoin Heater first time start](https://img.youtube.com/vi/t4zXWliNhGk/0.jpg)](https://www.youtube.com/watch?v=t4zXWliNhGk)
 
 Achtet und überprüft, dass das System keine Kühlflüssigkeit verliert. Falls dieses der Fall ist, schaltet das System über die Steckdose aus und überprüft die Schlauchverbindungen. Benützt Teflonband oder Sonstiges, Hauptsache das System ist und bleibt trocken.
 
@@ -190,8 +183,8 @@ Du benötigst eine micro SD-Karte mit 8 GB oder 16 GB. SD-Karten mit mehr Speich
 -   Mit [Etcher](https://etcher.io/) das Image auf die SD-Karte flashen. 
 -   Pass den Jumper auf dem Control Board so an, um von der SD-Karte (anstelle vom NAND-Speicher) zu booten, wie hier gezeigt.
 
-![S9 Jumper location](./img/IMG_1650.JPG?raw=true "S9 Jumper finden")
-![S9 Jumper auf Boot from SD umstellen](./img/IMG_1650.JPG?raw=true "S9 Jumper auf Boot from SD umstellen")
+![S9 Jumper location](./img/Antminer_S9_Jumper_location.png?raw=true "S9 Jumper finden")
+![S9 Jumper auf Boot from SD umstellen](./img/Antminer_S9_Jumpers.png?raw=true "S9 Jumper auf Boot from SD umstellen")
 
 - Legt die SD Karte in den Miner (Control Board SD Slot) ein und startet das System.  
 - Nach paar Sekunden sollte man über die IP-Adresse auf die Benutzeroberfläche vom Miner zugreifen können.
