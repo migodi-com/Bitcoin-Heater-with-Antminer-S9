@@ -64,11 +64,12 @@ Prüft den Miner auf Funktionsfähigkeit und ob auch alle Hashboards laufen. Das
 
 <img src="./img/IMG_1626.JPG?raw=true" data-canonical-src="./img/IMG_1626.JPG?raw=true" width="250" alt="Hebelverschluss"/><img src="./img/IMG_1627.JPG?raw=true" data-canonical-src="./img/IMG_1627.JPG?raw=true" width="250" alt="Hebelverschluss 2"/><img src="./img/IMG_1625.JPG?raw=true" data-canonical-src="./img/IMG_1625.JPG?raw=true" width="250" alt="Hebelverschluss 3"/><img src="./img/IMG_1621.JPG?raw=true" data-canonical-src="./img/IMG_1621.JPG?raw=true" width="250" alt="Data-Kabel"/>
 
-4. Hashboards, durch Herausziehen herausnehmen. Seid vorsichtig, grundsätzlich lassen sich die Hashboards ganz einfach herausziehen. Bei Wiederstand - guckt rein, nimmt sonst erst mal ein anderes Hashboard heraus. Legt die Boards zur Seite.
-![S9 Hashboards ausbauen - Hashboard herausziehen](./img/IMG_1623.JPG?raw=true "Hashboard herausziehen" =250x) ![S9 Hashboards ausbauen - Hashboards Antminer S9](./img/IMG_1624.JPG?raw=true "Hashboards Antminer S9" =250x)
+4. Hashboards, durch Herausziehen herausnehmen. Seid vorsichtig, grundsätzlich lassen sich die Hashboards ganz einfach herausziehen. Bei Wiederstand - guckt rein, nimmt sonst erst mal ein anderes Hashboard heraus. Legt die Boards zur Seite. 
+ 
+<img src="./img/IMG_1623.JPG?raw=true" data-canonical-src="./img/IMG_1623.JPG?raw=true" width="250" alt="Hashboard herausziehen"/><img src="./img/IMG_1624.JPG?raw=true" data-canonical-src="./img/IMG_1624.JPG?raw=true" width="250" alt="Hashboards Antminer S9"/>
 
 5. Das Control Board zieht ihr zum Schluss nun auch heraus. Achtet hier ebenfalls auf die Verschlüsse, druckt diese zur Seite und zieht das Control Board vorsichtig heraus. 
-![S9 Hashboards ausbauen - Control Board herausziehen](./img/IMG_1630.JPG?raw=true "Control Board herausziehen" =250x)
+<img src="./img/IMG_1630.JPG?raw=true" width="250" alt="Control Board herausziehen"/>
 
 6. Die Hashboards und das Control Board vorsichtig säubern und von Staub und Dreck befreien. Ihr könnt hierfür Pressluft, weiche Pinseln, reinen Alkohol oder auch Spüli verwenden. Auch die Behandlung in einem Ultraschalbad ist denkbar und gängige Praxis. Alle gereinigten Teile müssen vollständig trocknen.
 
