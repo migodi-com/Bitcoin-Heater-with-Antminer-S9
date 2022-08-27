@@ -85,16 +85,11 @@ Als Erste bringen wir die Hashboards und Kühlwasserblöcke zusammen. Das Ganze 
  <img src="./img/IMG_1648.JPG?raw=true" width="250" alt="Antminer S9 Sandwich"/> 
  
 1. Fangt mit einen Wasserkühlblock an und legt ein Thermal Pad aus. 
- 
- <img src="./img/IMG_1644.JPG?raw=true" width="250" alt="Antminer S9 Sandwich"/> 
- 
 2. Darauf kommt dann das erste Hashboard, dann wieder ein Thermal Pad. 
- <img src="./img/IMG_1642.JPG?raw=true" width="250" alt="Hashboard mit Thermal Pad"/> 
-  
 3. Dann der nächste Wasserkühlblock, wieder ein Pad usw. 
-  <img src="./img/IMG_1646.JPG?raw=true" width="250" alt="Antminer S9 Sandwich"/> 
+ <img src="./img/IMG_1644.JPG?raw=true" width="250" alt="Antminer S9 Sandwich"/><img src="./img/IMG_1642.JPG?raw=true" width="250" alt="Hashboard mit Thermal Pad"/><img src="./img/IMG_1646.JPG?raw=true" width="250" alt="Antminer S9 Sandwich"/> 
 
-4. Das Ganze wiederholen - der Abschluss ist ein Kühlwasserblöcke. 
+4. Der Abschluss ist ein Kühlwasserblöcke. 
  
  <img src="./img/IMG_1647.JPG?raw=true" width="250" alt="Antminer S9 Sandwich"/><img src="./img/IMG_1634.JPG?raw=true" width="250" alt="Antminer S9 Sandwich"/><img src="./img/IMG_1635.JPG?raw=true" width="250" alt="Antminer S9 Sandwich"/> 
 
@@ -126,9 +121,10 @@ Verwendet vernünftige Klemmen, Schellen und das Teflonband!
 1. Verbindet nun einen der Wasserteiler mit dem Radiator.
 2. Verbindet den freien Radiatoranschluss mit der Pumpe (IN).
 3. Schließt den letzten Schlauch an den freien Wasserverteile an, aber noch nicht mit der Pumpte verbinden! Ihr werden über diesen Schlauch gleich das System mit Destilliertes Wasser / Kühlmittel. 
-4. Baut die Pumpenhalterung zusammen. 
- <img src="./img/IMG_0001.png?raw=true" width="450" alt="Antminer S9 Schlauchstruktur"/><img src="./img/IMG_1675.JPG?raw=true" width="250" alt="Antminer S9 Schlauchstruktur"/><img src="./img/IMG_1638.JPG?raw=true" width="250" alt="Antminer S9 Schlauchstruktur"/> 
+4. Baut die Pumpenhalterung zusammen.  
  
+ <img src="./img/IMG_0001.png?raw=true" width="450" alt="Antminer S9 Schlauchstruktur"/><img src="./img/IMG_1675.JPG?raw=true" width="250" alt="Antminer S9 Schlauchstruktur"/><img src="./img/IMG_1638.JPG?raw=true" width="250" alt="Antminer S9 Schlauchstruktur"/> 
+
 
 ### Zwischenstand
 
