@@ -9,7 +9,7 @@ Die Idee hinter einer Heizung basierend auf die Abwärme von Computer-Technik, i
 
 ## Wie siehst es fertig aus?
 
-![Bitcoin Air Heater](./img/Bitcoin_Heater.jpeg?raw=true =250x250 "Bitcoin Heater")
+<img src="./img/Bitcoin_Heater.jpeg" width="100" height="100">
 
 
 ## Technische Eckdaten
