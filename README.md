@@ -9,12 +9,12 @@ Die Idee hinter einer Heizung basierend auf die Abwärme von Computer-Technik, i
 
 ## Wie siehst es fertig aus?
 
-![Bitcoin Air Heater](./img/Bitcoin_Heater.jpeg?raw=true "Bitcoin Heater")
+![Bitcoin Air Heater](./img/Bitcoin_Heater.jpeg?raw=true =250x250 "Bitcoin Heater")
 
 
 ## Technische Eckdaten
 
-Verbrauch: 180 - 1600 Watt  - PSU / Netzteil details: ![Bitcoin Air Heater](./img/Bitcoin_Heater.jpeg?raw=true "Link zur PSU")
+Verbrauch: 180 - 1600 Watt  - PSU / Netzteil details: [HIER](./PSU_APW3pp.md)
 Hash-Power: 14TH/s
 Abwärme: ca. 40°C
 Internet: ETH Port
