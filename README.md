@@ -61,6 +61,7 @@ Prüft den Miner auf Funktionsfähigkeit und ob auch alle Hashboards laufen. Das
 <img src="./img/IMG_1619.JPG?raw=true" data-canonical-src="./img/IMG_1619.JPG?raw=true" width="450" alt="Hinteren Lüfter abschrauben und abnehmen"/>
 
 3. Netzteil-, Data- und Fan-Kabel abziehen. Achtet darauf, dass alle Kabel in der Regel mit einem Hebelverschluss gesichert sind. Verwendet eure Daumen oder einen Schraubenzieher, um den Verschluss durch Hochheben zu lösen und um dann das Kabel herauszuziehen. 
+
 <img src="./img/IMG_1626.JPG?raw=true" data-canonical-src="./img/IMG_1626.JPG?raw=true" width="250" alt="Hebelverschluss"/><img src="./img/IMG_1627.JPG?raw=true" data-canonical-src="./img/IMG_1627.JPG?raw=true" width="250" alt="Hebelverschluss 2"/><img src="./img/IMG_1625.JPG?raw=true" data-canonical-src="./img/IMG_1625.JPG?raw=true" width="250" alt="Hebelverschluss 3"/><img src="./img/IMG_1621.JPG?raw=true" data-canonical-src="./img/IMG_1621.JPG?raw=true" width="250" alt="Data-Kabel"/>
 
 4. Hashboards, durch Herausziehen herausnehmen. Seid vorsichtig, grundsätzlich lassen sich die Hashboards ganz einfach herausziehen. Bei Wiederstand - guckt rein, nimmt sonst erst mal ein anderes Hashboard heraus. Legt die Boards zur Seite.
