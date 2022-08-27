@@ -94,6 +94,7 @@ Als Erste bringen wir die Hashboards und Kühlwasserblöcke zusammen. Das Ganze 
   <img src="./img/IMG_1646.JPG?raw=true" width="250" alt="Antminer S9 Sandwich"/> 
 
 4. Das Ganze wiederholen - der Abschluss ist ein Kühlwasserblöcke. 
+ 
  <img src="./img/IMG_1647.JPG?raw=true" width="250" alt="Antminer S9 Sandwich"/><img src="./img/IMG_1634.JPG?raw=true" width="250" alt="Antminer S9 Sandwich"/><img src="./img/IMG_1635.JPG?raw=true" width="250" alt="Antminer S9 Sandwich"/> 
 
 5. Hashboard und Kühlwasserblöcke in die Stahlkonstruktion, bestehend aus den beiden Stahlplatte und den sechs langen Schrauben, einsetzen. Achtete darauf das die Stahlkonstruktion keine Bauelemente der Hashboards berührt. 
