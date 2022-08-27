@@ -9,7 +9,7 @@ Die Idee hinter einer Heizung basierend auf die Abwärme von Computer-Technik, i
 
 ## Wie siehst es fertig aus?
 
-![Bitcoin Heater](https://github.com/Christo-Stoyanov/Bitcoin-Heater-with-Antminer-S9/raw/V1/img/Bitcoin_Heater.jpeg "Bitcoin Heater" =250x)
+![Bitcoin Heater](https://github.com/Christo-Stoyanov/Bitcoin-Heater-with-Antminer-S9/raw/V1/img/Bitcoin_Heater.jpeg | =250x)
 
 
 ## Technische Eckdaten
