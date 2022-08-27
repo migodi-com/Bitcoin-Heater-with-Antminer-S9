@@ -190,7 +190,7 @@ Du benötigst eine micro SD-Karte mit 8 GB oder 16 GB. SD-Karten mit mehr Speich
 Jetzt braucht ihr nur noch euren Pool einzustellen und euer Bitcoin Heater ist vollständig einsatzbereit. 
 
     
-## 4v4 - Support this project
+## V4V - Support this project
 
 BTC On-Chain: bc1qflqv2tczn36vys67xn76dzfepyr8teladt5m77 
 
