@@ -46,8 +46,8 @@ Die Idee hinter einer Heizung basierend auf die Abwärme von Computer-Technik, i
 - Thermo Schlauch: 5 meters [Kaufen](#)
 - Kleinkram (todo) [Kaufen](#)
 
-Komplettes Kit bei Migodi [Kaufen](https://app.migodi.com/marketplace/view/33/water-cooling-kit-for-antminer-s9)
-Komplettes Kit bei Karstadt [Kaufen](#)
+Komplettes Kit [Kaufen](https://pay.migodi.com/apps/3k13Fotm5AYDwU3qnFCsgT8uV1Wa/crowdfund)
+Komplettes Kit [Kaufen](#)
 
 <br/><br/><br/><br/>
 ## Schritt 1 - Miner prüfen.
