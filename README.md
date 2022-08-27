@@ -13,10 +13,10 @@ Die Idee hinter einer Heizung basierend auf die Abwärme von Computer-Technik, i
 
 ## Technische Eckdaten
 
-Verbrauch: 180 - 1600 Watt  - PSU / Netzteil details: [HIER](./PSU_APW3pp.md) 
-Hash-Power: 14TH/s 
-Abwärme: ca. 40°C 
-Internet: ETH Port
+- Verbrauch: 180 - 1600 Watt  - PSU / Netzteil details: [HIER](./PSU_APW3pp.md)  
+- Hash-Power: 14TH/s 
+- Abwärme: ca. 40°C 
+- Internet: ETH Port
 
 ## Grundvorraussetzung
 
@@ -27,26 +27,27 @@ Internet: ETH Port
 
 ## Benötigte Bauteile und Werkzeuge
 
-
-- Einen Antminer S7 S9 S9i M3 V9 D3 A3 or T9+ mit funktionsfähigem Netzteil
-- 2x Stahlplatten
-- 4x Wasserkühlblock
-- 2x Wasserverteiler (1 zu 4)
-- 6x Thermo Pads
-- 25 x Klammern
-- 1 x Wasserpumpe
-- 1 x Radiator 480
-- 8 x Fans
-- 8 x Fan Abdeckung
-- 2 set Fan PWD Erweiterungskabel
-- 6 x lange Schrauben
-- 1 x Teflonband (klein?!)
-- 5L High Performance Dielectric Heat Transfer Fluid ODER 5L Destilliertes Wasser 
-- Thermo Schlauch: 5 meters
-- Kleinkram (todo)
-
 ![Bitcoin Air Heater](./img/Teileliste.jpg?raw=true "Bitcoin Heater")
 
+- Einen Antminer S7 S9 S9i M3 V9 D3 A3 or T9+ mit funktionsfähigem Netzteil
+- 2x Stahlplatten [Kaufen](#)
+- 4x Wasserkühlblock [Kaufen](#)
+- 2x Wasserverteiler (1 zu 4) [Kaufen](#)
+- 6x Thermo Pads [Kaufen](#)
+- 25 x Klammern [Kaufen](#)
+- 1 x Wasserpumpe [Kaufen](#)
+- 1 x Radiator 480 [Kaufen](#)
+- 8 x Fans [Kaufen](#)
+- 8 x Fan Abdeckung [Kaufen](#)
+- 2 set Fan PWD Erweiterungskabel [Kaufen](#)
+- 6 x lange Schrauben [Kaufen](#)
+- 1 x Teflonband (klein?!) [Kaufen](#)
+- 5L High Performance Dielectric Heat Transfer Fluid [Kaufen](#) ODER 5L Destilliertes Wasser 
+- Thermo Schlauch: 5 meters [Kaufen](#)
+- Kleinkram (todo) [Kaufen](#)
+
+Komplettes Kit bei Migodi [Kaufen](https://app.migodi.com/marketplace/view/33/water-cooling-kit-for-antminer-s9)
+Komplettes Kit bei Karstadt [Kaufen](#)
 
 ## Schritt 1 - Miner prüfen.
 
@@ -58,7 +59,7 @@ Prüft den Miner auf Funktionsfähigkeit und ob auch alle Hashboards laufen. Das
 1. Erdet euch selbst gegen elektrische Aufladung. Ihr könnet ansonsten bei den nächsten Schritten den Miner ungewollt beschädigen.
 
 2. Hinteren Lüfter abschrauben und abnehmen. Es reicht direkt die Blende / Halterung abzuschrauben. 
-<img src="./img/IMG_1619.JPG?raw=true" data-canonical-src="./img/IMG_1619.JPG?raw=true" width="450" alt="Hinteren Lüfter abschrauben und abnehmen"/>
+<img src="./img/IMG_1619.JPG?raw=true" data-canonical-src="./img/IMG_1619.JPG?raw=true" width="250" alt="Hinteren Lüfter abschrauben und abnehmen"/>
 
 3. Netzteil-, Data- und Fan-Kabel abziehen. Achtet darauf, dass alle Kabel in der Regel mit einem Hebelverschluss gesichert sind. Verwendet eure Daumen oder einen Schraubenzieher, um den Verschluss durch Hochheben zu lösen und um dann das Kabel herauszuziehen. 
 
