@@ -88,7 +88,7 @@ Als Erste bringen wir die Hashboards und Kühlwasserblöcke zusammen. Das Ganze 
 3. Dann der nächste Wasserkühlblock, wieder ein Pad usw. 
  
  <img src="./img/IMG_1642.JPG?raw=true" width="250" alt="Hashboard mit Thermal Pad"/><img src="./img/IMG_1644.JPG?raw=true" width="250" alt="Antminer S9 Sandwich"/><img src="./img/IMG_1646.JPG?raw=true" width="250" alt="Antminer S9 Sandwich"/><img src="./img/IMG_1647.JPG?raw=true" width="250" alt="Antminer S9 Sandwich"/> 
- 
+
 
 4. Der Abschluss ist ein Kühlwasserblöcke. 
  
@@ -190,10 +190,10 @@ Du benötigst eine micro SD-Karte mit 8 GB oder 16 GB. SD-Karten mit mehr Speich
 Jetzt braucht ihr nur noch euren Pool einzustellen und euer Bitcoin Heater ist vollständig einsatzbereit. 
 
     
-## Allgemeine Bedienungsweise
+## 4v4 - Support this project
 
-## Wartung 
-
+BTC On-Chain: bc1qflqv2tczn36vys67xn76dzfepyr8teladt5m77
+BTC LN: BTCPay Crowdfund https://pay.migodi.com/apps/3k13Fotm5AYDwU3qnFCsgT8uV1Wa/crowdfund
 
 
 
