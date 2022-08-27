@@ -126,13 +126,9 @@ Verwendet vernünftige Klemmen, Schellen und das Teflonband!
 1. Verbindet nun einen der Wasserteiler mit dem Radiator.
 2. Verbindet den freien Radiatoranschluss mit der Pumpe (IN).
 3. Schließt den letzten Schlauch an den freien Wasserverteile an, aber noch nicht mit der Pumpte verbinden! Ihr werden über diesen Schlauch gleich das System mit Destilliertes Wasser / Kühlmittel. 
+4. Baut die Pumpenhalterung zusammen. 
+ <img src="./img/IMG_0001.png?raw=true" width="450" alt="Antminer S9 Schlauchstruktur"/><img src="./img/IMG_1675.JPG?raw=true" width="250" alt="Antminer S9 Schlauchstruktur"/><img src="./img/IMG_1638.JPG?raw=true" width="250" alt="Antminer S9 Schlauchstruktur"/> 
  
- <img src="./img/IMG_0001.png?raw=true" width="450" alt="Antminer S9 Schlauchstruktur"/><img src="./img/IMG_1675.JPG?raw=true" width="250" alt="Antminer S9 Schlauchstruktur"/>
-
-4. Baut die Pumpenhalterung zusammen 
- 
- <img src="./img/IMG_1638.JPG?raw=true" width="250" alt="Antminer S9 Schlauchstruktur"/>
-
 
 ### Zwischenstand
 
@@ -163,7 +159,7 @@ Positioniert alles so, dass Spannungen / Netzteil / Miner nicht mit der Kühlfl�
 4. Schließt die Wasserpumpte an einen der FAN-Anschlüße am Control Board an. 
 5. Verbindet alle FANs mit den Fan PWD Erweiterungskabel und schließt das Kabel an einen freien FAN-Anschluss am Control Board an. 
 6. Schließt das Netzteil an die Hashboards und ans Control Board an.
-7. Verbindet den Miner mit deinem Netzwerk (ETH ;-)). 
+7. Verbindet den Miner mit deinem Netzwerk (LAN-Kabel). 
 8. Schliesse das Netzteil an einer Steckdochse mit eigenenständen Ein/Ausschalter und schalte es ein. 
 9. Überprüft das System mit einem Messgerät auf Spannungsfreiheit. Sollte die Sicherung herausfliegen, das System komplett vom Stromnetz trennen!
 
@@ -179,7 +175,7 @@ Sollte der Miner Nass werden, besteht Lebens- und Kurzschlussgefahr. Positionier
 
 
 
-## Schritt 8 -  Heat OS Firmware installieren
+## Schritt 8 -  Heat OS Firmware installieren (optional)
 
 Du benötigst eine micro SD-Karte mit 8 GB oder 16 GB. SD-Karten mit mehr Speicherplatz können Probleme verursachen. 
 
