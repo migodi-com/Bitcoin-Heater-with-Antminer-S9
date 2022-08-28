@@ -22,7 +22,7 @@ Die Idee hinter einer Heizung basierend auf die Abwärme von Computer-Technik, i
 
 - Wechselstrom ab 180 Watt bei 220-240 Volt
 - Passendes Netzteil. Alternativ können die Hashboards und das Control Board direkt über DC versorgt werden, z. B. mit einem handelsüblichen PC-Netzteil oder DC stabilized power supply.
-- Internet (3G, 4G, 5G, SAT) und einen freien ETH-Netzwerkport muss stabil sein - nicht schnell. Verbrauch ca. 300 MB - 500 MB pro Monat.
+- Internet (3G, 4G, 5G, SAT) und einen freien ETH-Netzwerkport. Muss stabil sein - nicht schnell. Verbrauch ca. 300 MB - 500 MB pro Monat.
 
 <br/><br/><br/><br/>
 ## Benötigte Bauteile und Werkzeuge
@@ -30,24 +30,21 @@ Die Idee hinter einer Heizung basierend auf die Abwärme von Computer-Technik, i
 ![Bitcoin Air Heater](./img/Teileliste.jpg?raw=true "Bitcoin Heater")
 
 - Einen Antminer S7 S9 S9i M3 V9 D3 A3 oder T9+ mit funktionsfähigem Netzteil
-- 2x Stahlplatten [Kaufen](#)
-- 4x Wasserkühlblock [Kaufen](#)
-- 2x Wasserverteiler (1 zu 4) [Kaufen](#)
-- 6x Thermo Pads [Kaufen](#)
-- 25 x Klammern [Kaufen](#)
-- 1 x Wasserpumpe [Kaufen](#)
-- 1 x Radiator 480 [Kaufen](#)
-- 8 x Fans [Kaufen](#)
-- 8 x Fan Abdeckung [Kaufen](#)
-- 2 set Fan PWD Erweiterungskabel [Kaufen](#)
-- 6 x lange Schrauben [Kaufen](#)
-- 1 x Teflonband (klein?!) [Kaufen](#)
+- 2x Stahlplatten 
+- 4x Wasserkühlblock 
+- 2x Wasserverteiler (1 zu 4) 
+- 6x Thermo Pads 
+- 25 x Klammern 
+- 1 x Wasserpumpe 
+- 1 x Radiator 480 
+- 8 x Fans 
+- 8 x Fan Abdeckung 
+- 2 set Fan PWD Erweiterungskabel 
+- 6 x lange Schrauben 
+- 1 x Teflonband (klein?!) 
 - 5L High Performance Dielectric Heat Transfer Fluid [Kaufen](#) ODER 5L Destilliertes Wasser 
-- Thermo Schlauch: 5 Meter [Kaufen](#)
-- Kleinkram (todo) [Kaufen](#)
-
-Komplettes Kit [kaufen](https://pay.migodi.com/apps/3k13Fotm5AYDwU3qnFCsgT8uV1Wa/crowdfund)
-
+- Thermo Schlauch: 5 Meter 
+- Kleinkram (todo) 
 
 <br/><br/><br/><br/>
 ## Schritt 1 - Miner prüfen.
@@ -57,7 +54,7 @@ Prüft den Miner auf Funktionsfähigkeit und welche Hashboards laufen. Das Syste
 <br/><br/><br/><br/>
 ## Schritt 2 - Hashboards ausbauen
 
-1. Erdet euch selbst gegen elektrische Aufladung. Ihr könnet ansonsten bei den nächsten Schritten den Miner ungewollt beschädigen.
+1. Erdet euch selbst gegen elektrische Aufladung. Ihr könntet ansonsten den Miner ungewollt beschädigen.
 
 2. Hinteren Lüfter abschrauben und abnehmen. Es reicht direkt die Blende / Halterung abzuschrauben. 
 <img src="./img/IMG_1619.JPG?raw=true" data-canonical-src="./img/IMG_1619.JPG?raw=true" width="250" alt="Hinteren Lüfter abschrauben und abnehmen"/>
