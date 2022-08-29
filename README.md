@@ -168,11 +168,11 @@ Sollte der Miner Nass werden, besteht Lebens- und Kurzschlussgefahr. Positionier
 
 
 <br/><br/><br/><br/>
-## Schritt 8 -  Heat OS Firmware installieren (optional)
+## Schritt 8 -  Alternative Firmware installieren (optional)
 
 Du benötigst eine micro SD-Karte mit 8 GB oder 16 GB. SD-Karten mit mehr Speicherplatz können Probleme verursachen. 
 
--   Das Image für die SD-Karte herunterladen [website](https://www.migodi.com/).
+-   Das Image für die SD-Karte herunterladen: [Braiins OS+](https://braiins.com/os/plus) oder [VNISH](https://www.vnish.net/eng/index.html)
 -   Mit [Etcher](https://etcher.io/) das Image auf die SD-Karte flashen. 
 -   Pass den Jumper auf dem Control Board so an, um von der SD-Karte (anstelle vom NAND-Speicher) zu booten, wie hier gezeigt. 
  
