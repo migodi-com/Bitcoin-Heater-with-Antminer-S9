@@ -4,7 +4,8 @@
 
 Packing dimensions: 32.7 x 16.8 x 12.6 cm 
 Weight: 2.3 KG 
-
+ 
+<br /><br />
 **Number of PCIE of the APW3++ model**
 
 Model:  APW3++ 
